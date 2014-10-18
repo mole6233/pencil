@@ -6,12 +6,12 @@ pencil
 示例：
 
 ______
-* 百度坐标转换为gps坐标
+* 百度坐标转换为GPS坐标
 
   CLLocationCoordinate2D gpsCoord = [Pencil b2g:baiduCoord];
 
 ______
-* 百度转换为gcj坐标
+* 百度转换为火星坐标
 
   CLLocationCoordinate2D gcjCoord = [Pencil b2w:baiduCoord];
 
